@@ -24,15 +24,27 @@ Carbon monoxide (CO) and lead (Pb) suspended in the air can contribute to ill ef
 According to the World Health Organisation, exposure to air pollution causes 4.2 milliondeaths worldwide, and cause at least 600,000 children to suffer from acuterespiratory infections, caused by toxic air. There are nearly 500,000 prematuredeaths in Europe every year. Exposure to carcinogenic particulate matter, nitrogen dioxide (NO2) and ground-level ozone (O3) costthe lives of 76,200 people in Italy in just one year, reveals the European Environment Agency.
 
 ### Carbon Mooxide Poisoning
-Carbon monoxide is a poisonous gas that can make you seriously ill if you breathe it in.<br>
+Carbon monoxide poisoning occurs when carbon monoxide builds up in your bloodstream. When too much carbon monoxide is in the air, your body replaces the oxygen in your red blood cells with carbon monoxide. This can lead to serious tissue damage, or even death.
+
+Carbon monoxide is a colorless, odorless, tasteless gas produced by burning gasoline, wood, propane, charcoal or other fuel. Improperly ventilated appliances and engines, particularly in a tightly sealed or enclosed space, may allow carbon monoxide to accumulate to dangerous levels.<br>
+
 Symptoms of carbon monoxide poisoning include:
--eadache
-dizziness
-feeling sick or being sick
-feeling weak
-confusion
-chest and muscle pain
-shortness of breath
+- headache
+- dizziness
+- feeling sick or being sick
+- feeling weak
+- confusion
+- chest and muscle pain
+- shortness of breath
+
+**Complications**<br>
+Cardiovascular complications of CO poisoning has been well reported and include myocardial stunning, left ventricular dysfunction, pulmonary edema, and arrhythmias. Acute myocardial ischemia has also been reported from increased thrombogenicity due to CO poisoning.
+
+### What CO level is dangerous to my health?
+The health effects of CO depend on the CO concentration and length of exposure, as well as each individual's health condition. CO concentration is measured in parts per million (ppm). Most people will not experience any symptoms from prolonged exposure to CO levels of approximately 1 to 70 ppm but some heart patients might experience an increase in chest pain. As CO levels increase and remain above 70 ppm, symptoms become more noticeable and can include headache, fatigue and nausea. At sustained CO concentrations above 150 to 200 ppm, disorientation, unconsciousness, and death are possible.<br>
+
+The current Occupational Safety and Health Administration (OSHA) permissible exposure limit (PEL) for carbon monoxide is 50 parts per million (ppm) parts of air (**55 milligrams per cubic meter (mg/m(3)))** as an 8-hour time-weighted average (TWA) concentration [29 CFR Table Z-1].
+
 
 ## Using Machine Learning to Predict Air Pollution
 <img src="https://static.vecteezy.com/system/resources/thumbnails/014/265/576/small/person-holding-a-tablet-technology-looking-at-the-graph-of-pollution-reduction-or-contaminants-toxic-substances-in-industrial-plants-to-obtain-an-environmental-certificate-photo.jpg" width="250">
@@ -67,7 +79,7 @@ Variables in this dataset are:
 - O3: **Ozone**
 
 ### The Model
-This model is a **Regression** model. I want to predict...
+This model is a **Regression** model. I want to predict levels of Carbon Monoxide in the air based on several factors. This can be used to prevent high levels of CO in the air that can result poisonous.
 
 <br>
 <br>
@@ -78,3 +90,5 @@ This model is a **Regression** model. I want to predict...
 [*Dataset Reference*]: https://archive.ics.uci.edu/ml/datasets/Air+Quality <br>
 [*Dataset*]: https://archive.ics.uci.edu/ml/machine-learning-databases/00360/ <br>
 [*Scientific Paper*]: https://www.nhs.uk/conditions/carbon-monoxide-poisoning/ <br>
+[*Medical Paper*]: https://www.mayoclinic.org/diseases-conditions/carbon-monoxide/symptoms-causes/syc-20370642#:~:text=When%20too%20much%20carbon%20monoxide,propane%2C%20charcoal%20or%20other%20fuel. <br>
+[*Medical Paper*]: https://www.cpsc.gov/Safety-Education/Safety-Education-Centers/Carbon-Monoxide-Information-Center/Carbon-Monoxide-Questions-and-Answers#:~:text=As%20CO%20levels%20increase%20and,unconsciousness%2C%20and%20death%20are%20possible. <br>
