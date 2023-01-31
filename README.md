@@ -1,2 +1,1 @@
-# Air-Quality-Pred-Model
-regression model for air quality prediction
+# Air Quality Prediction Model
