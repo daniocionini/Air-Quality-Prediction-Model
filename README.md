@@ -90,5 +90,5 @@ This model is a **Regression** model. I want to predict levels of Carbon Monoxid
 [*Dataset Reference*]: https://archive.ics.uci.edu/ml/datasets/Air+Quality <br>
 [*Dataset*]: https://archive.ics.uci.edu/ml/machine-learning-databases/00360/ <br>
 [*Scientific Paper*]: https://www.nhs.uk/conditions/carbon-monoxide-poisoning/ <br>
-[*Medical Paper*]: https://www.mayoclinic.org/diseases-conditions/carbon-monoxide/symptoms-causes/syc-20370642#:~:text=When%20too%20much%20carbon%20monoxide,propane%2C%20charcoal%20or%20other%20fuel. <br>
-[*Medical Paper*]: https://www.cpsc.gov/Safety-Education/Safety-Education-Centers/Carbon-Monoxide-Information-Center/Carbon-Monoxide-Questions-and-Answers#:~:text=As%20CO%20levels%20increase%20and,unconsciousness%2C%20and%20death%20are%20possible. <br>
+[*Medical Paper*]: https://www.mayoclinic.org/diseases-conditions/carbon-monoxide/symptoms-causes/syc-20370642#:~:text=When%20too%20much%20carbon%20monoxide,propane%2C%20charcoal%20or%20other%20fuel <br>
+[*Medical Paper*]: https://www.cpsc.gov/Safety-Education/Safety-Education-Centers/Carbon-Monoxide-Information-Center/Carbon-Monoxide-Questions-and-Answers#:~:text=As%20CO%20levels%20increase%20and,unconsciousness%2C%20and%20death%20are%20possible <br>
